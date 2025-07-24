@@ -1,4 +1,4 @@
-# Facebook Friend-Post Tree Scraper
+# 📘 Facebook Multi-Level Posts Scraper
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) <br>
 A Python automation tool that logs into Facebook, collects a user’s posts and their friends’ profiles recursively (multi-level tree structure), and stores the data into a text file.
 
